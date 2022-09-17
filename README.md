@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+![Header image](https://raw.githubusercontent.com/toshtemirov003/toshtemirov003/master/Assets/GitHub_Header.jpg)
 
 <h1 align="center">Hi 👋, I'm Murodjon</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
