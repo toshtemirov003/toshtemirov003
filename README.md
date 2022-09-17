@@ -5,7 +5,6 @@
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toshtemirov003&label=Profile%20views&color=0e75b6&style=flat" alt="toshtemirov003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/murodjon_28_09" target="blank"><img src="https://img.shields.io/twitter/follow/murodjon_28_09?logo=twitter&style=for-the-badge" alt="murodjon_28_09" /></a> </p>
 
@@ -41,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toshtemirov003&show_icons=true&locale=en" alt="toshtemirov003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toshtemirov003&" alt="toshtemirov003" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=toshtemirov003&label=Profile%20views&color=0e75b6&style=flat" alt="toshtemirov003" /> </p>
