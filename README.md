@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **toshtemirovmurodjon03@gmail.com**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1cZG0W9MQrGuEtO-uhisutAbo47hyh1LZ/edit](https://docs.google.com/document/d/1cZG0W9MQrGuEtO-uhisutAbo47hyh1LZ/edit)
+
 - ⚡ Fun fact **I think I am funny:)**
 
 <h3 align="left">Connect with me:</h3>
