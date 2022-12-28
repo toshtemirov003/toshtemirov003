@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Rakhmonov-Asadbek/Rakhmonov-Asadbek/main/name.svg" alt="Murodjon Toshtemirov" />
+  <img src="https://raw.githubusercontent.com/toshtemirov003/toshtemirov003/main/name.svg" alt="Murodjon Toshtemirov" />
 </h1>
 
 <br>
